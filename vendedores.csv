@@ -1,0 +1,51 @@
+vendedor_id,nombre,zona,canal,meta_mensual
+1,Vendedor_001,Lima Centro,E-commerce,58817.52
+2,Vendedor_002,Lima Sur,Directo,43149.18
+3,Vendedor_003,Lima Este,Distribuidor,45871.27
+4,Vendedor_004,Lima Sur,Directo,59628.33
+5,Vendedor_005,Provincias,Distribuidor,21327.67
+6,Vendedor_006,Lima Centro,Teléfono,33459.01
+7,Vendedor_007,Lima Sur,Directo,28747.61
+8,Vendedor_008,Lima Centro,E-commerce,52124.65
+9,Vendedor_009,Lima Norte,Distribuidor,21874.07
+10,Vendedor_010,Lima Centro,Distribuidor,54555.94
+11,Vendedor_011,Lima Sur,Distribuidor,56391.19
+12,Vendedor_012,Provincias,Teléfono,38578.03
+13,Vendedor_013,Callao,Teléfono,16126.6
+14,Vendedor_014,Provincias,Teléfono,32010.71
+15,Vendedor_015,Lima Centro,Teléfono,37555.77
+16,Vendedor_016,Lima Sur,Distribuidor,32208.27
+17,Vendedor_017,Lima Sur,E-commerce,34279.56
+18,Vendedor_018,Provincias,Directo,53362.47
+19,Vendedor_019,Lima Sur,Directo,19677.97
+20,Vendedor_020,Lima Centro,Distribuidor,27861.43
+21,Vendedor_021,Lima Centro,Directo,31444.1
+22,Vendedor_022,Lima Centro,E-commerce,46763.71
+23,Vendedor_023,Callao,Teléfono,43048.89
+24,Vendedor_024,Lima Sur,Teléfono,30607.2
+25,Vendedor_025,Callao,E-commerce,48988.43
+26,Vendedor_026,Lima Centro,E-commerce,36405.36
+27,Vendedor_027,Lima Centro,Teléfono,50974.96
+28,Vendedor_028,Lima Este,E-commerce,16550.66
+29,Vendedor_029,Lima Sur,E-commerce,38142.92
+30,Vendedor_030,Lima Norte,E-commerce,39982.79
+31,Vendedor_031,Lima Sur,Distribuidor,16424.82
+32,Vendedor_032,Provincias,Directo,24939.56
+33,Vendedor_033,Lima Centro,Distribuidor,59787.01
+34,Vendedor_034,Provincias,Distribuidor,32309.72
+35,Vendedor_035,Provincias,Teléfono,59667.27
+36,Vendedor_036,Lima Este,E-commerce,45530.05
+37,Vendedor_037,Lima Norte,E-commerce,54935.6
+38,Vendedor_038,Callao,Teléfono,54594.89
+39,Vendedor_039,Lima Sur,Directo,27071.86
+40,Vendedor_040,Lima Norte,Distribuidor,54083.56
+41,Vendedor_041,Lima Sur,Distribuidor,46035.91
+42,Vendedor_042,Lima Centro,Teléfono,38808.57
+43,Vendedor_043,Callao,Teléfono,46058.17
+44,Vendedor_044,Lima Sur,Directo,45845.82
+45,Vendedor_045,Lima Este,E-commerce,56375.93
+46,Vendedor_046,Lima Este,Teléfono,59560.22
+47,Vendedor_047,Lima Este,Teléfono,31617.85
+48,Vendedor_048,Provincias,E-commerce,43649.24
+49,Vendedor_049,Callao,E-commerce,32748.53
+50,Vendedor_050,Lima Sur,Distribuidor,31782.49
